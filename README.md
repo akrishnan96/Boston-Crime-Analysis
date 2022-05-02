@@ -1,7 +1,8 @@
 # Boston-Crime-Analysis
-Analysis of crimes occuring in Boston and also trying to predict the number of crimes 
 
-Folder Description
+<b>This project predominantly has two aims, one is to find out how the factors such as area and Time affect the crime rate in the city, and the other is to predict the count of crimes that could happen given all the factors</b>
+
+<b><u>Folder Description</u></b>
 
 1) Data Preprocessing - Contains the jupyter notebook used to create the final dataframe used for visaulizations,EDA and modelling. The final dataset has been zipped as the file is too large for Github
 
